@@ -1,0 +1,54 @@
+
+
+.home p{
+    
+    border:2px solid white;
+    color:rgb(129, 189, 194);
+    font-size: 30px;
+}
+
+.body1{
+    float:left;
+
+}
+
+.htr{
+    float:left;
+    margin-left: 1px;
+    height: 500px;
+    width: 30%;
+    display: block;
+    margin-right: 800px;
+
+}
+
+.quick{
+    float:left;
+    height:400px;
+    width:50%;
+    margin-top: 1px;
+    margin-left: 600px;
+    margin-right: auto;
+    border: 2px solid white;
+   
+}
+
+p{
+    font-size: 30px;
+    float:left;
+    display: block;
+    color:black
+}
+
+ul{
+    margin-top: 100px;
+    padding-left: 20px;
+    float:left;
+    border:3px solid white;
+    font-size: 30px;
+    margin-left: 1px;
+    height: fit-content;
+    color:black;
+    width: 350px;
+    text-decoration: none; 
+}

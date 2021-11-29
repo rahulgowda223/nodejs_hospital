@@ -1,0 +1,9 @@
+.card{
+    display:block;
+    font-size: large;
+    
+}
+
+.card p{
+    color:black;
+}
